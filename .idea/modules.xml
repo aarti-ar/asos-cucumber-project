@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/asos-cucumber-project/asos-cucumber-project.iml" filepath="$PROJECT_DIR$/asos-cucumber-project/asos-cucumber-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/asos-cucumber-projectJD.iml" filepath="$PROJECT_DIR$/.idea/asos-cucumber-projectJD.iml" />
+    </modules>
+  </component>
+</project>
